@@ -1,0 +1,1 @@
+print('\n'.join(list(map(lambda a1,a2:' '*a1 +'*'*a2 ,range(3,-1,-1),range(1,5)))))

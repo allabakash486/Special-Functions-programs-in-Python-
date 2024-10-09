@@ -1,0 +1,1 @@
+print('\n'.join(list(map(lambda a1:'* '*a1,range(1,int(input('Enter the number of lines:'))+ 1)))))
